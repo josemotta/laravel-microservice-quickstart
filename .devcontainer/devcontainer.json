@@ -36,6 +36,7 @@
 		"visualstudioexptteam.vscodeintellicode",
 		"dbaeumer.vscode-eslint",
 		"bmewburn.vscode-intelephense-client"
+		"rokoroku.vscode-theme-darcula"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
